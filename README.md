@@ -1,231 +1,296 @@
-<!--
-  ╔══════════════════════════════════════════════════════════════╗
-  ║  ANTES DE USAR: substitua os placeholders abaixo             ║
-  ║    SEU_USUARIO  -> seu usuário do GitHub                     ║
-  ║    SEU NOME     -> seu nome (também dentro do banner.svg)    ║
-  ║  O repositório do perfil deve se chamar exatamente SEU_USUARIO ║
-  ╚══════════════════════════════════════════════════════════════╝
--->
+# 👾 Jayane | Developer & Data Enthusiast
 
 <div align="center">
 
-<!-- ░░░░░░░░░░░░░░░░░░░░ BANNER / BOOT ░░░░░░░░░░░░░░░░░░░░ -->
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/main/banner.svg" alt="Banner" width="100%"/>
+<!-- SYSTEM BOOT BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,45:111C44,100:00E5FF&text=JAYANE%20CSANTOS&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=CODE%20%E2%80%A2%20DATA%20%E2%80%A2%20INTELLIGENCE&descAlignY=58&descSize=15&animation=fadeIn" alt="Jayane — Code, Data and Intelligence"/>
 
-<!-- ░░░░░░░░░░░░░░░░░░░░ TYPING ░░░░░░░░░░░░░░░░░░░░ -->
-<a href="https://github.com/SEU_USUARIO">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00F0FF&center=true&vCenter=true&multiline=false&width=720&height=45&lines=%3E+Inicializando+perfil...;%3E+Desenvolvedor+Full+Stack;%3E+Apaixonado+por+IA+%26+Automa%C3%A7%C3%A3o;%3E+Construindo+o+futuro+linha+por+linha;%3E+Sistema+online.+Bem-vindo." alt="Typing animation"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=%3E+Initializing+developer+environment...;%3E+Quality+mindset+%7C+Engineering+solutions;%3E+Exploring+Backend%2C+Data+%26+AI;%3E+Turning+curiosity+into+working+software." alt="Typing animation"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00f0ff?style=for-the-badge&labelColor=0d1117&logo=statuspage&logoColor=00f0ff"/>
-<img src="https://img.shields.io/badge/SISTEMA-v2.0-ff00e5?style=for-the-badge&labelColor=0d1117&logo=probot&logoColor=ff00e5"/>
-<img src="https://img.shields.io/badge/ACESSO-LIBERADO-39ff14?style=for-the-badge&labelColor=0d1117&logo=gnuprivacyguard&logoColor=39ff14"/>
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=VISITAS&style=for-the-badge&color=0d1117&labelColor=00f0ff" alt="Visitas"/>
+<img src="https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-00E5FF?style=for-the-badge&labelColor=050816" alt="Always learning"/>
+<img src="https://img.shields.io/badge/FOCUS-BACKEND%20%26%20DATA-7C3AED?style=for-the-badge&labelColor=050816" alt="Backend and data"/>
+<img src="https://img.shields.io/badge/BASED%20IN-BRAZIL-00D68F?style=for-the-badge&labelColor=050816" alt="Based in Brazil"/>
+
+<br/><br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Santox--Jay-FFFFFF?style=flat-square&logo=github&logoColor=white&labelColor=111827)](https://github.com/Santox-Jay)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayane-csantos)
 
 </div>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&section=header" width="100%"/>
+## `01` — About Me
 
-<!-- ░░░░░░░░░░░░░░░░░░░░ SOBRE MIM ░░░░░░░░░░░░░░░░░░░░ -->
+<img align="right" width="175" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation"/>
 
-## 🧠 `> sobre_mim.exe`
+Hey! I'm **Jayane**, a Computer Science student at **UFABC (Universidade Federal do ABC)**, passionate about technology, problem-solving, and building things that make sense.
+
+My journey started with a technical degree in **Internet Computing**, where I explored web development and collaborated on projects with real-world applications. Today, I combine my experience in **Software Quality Assurance** with my growing interests in **Backend Development, Data Engineering, Analytics, and AI**.
+
+I believe great software starts with good questions, thoughtful engineering, and attention to detail.
+
+- 🎓 **Education:** Computer Science — UFABC
+- 🧪 **Experience:** Software Quality Assurance, API testing and test automation
+- 💻 **Community:** Web Development at GreenTeam, an academic technology organization at UFABC
+- 📊 **Exploring:** SQL, Python, data analysis and data-driven solutions
+- 🤖 **Curious about:** Artificial Intelligence and Machine Learning
+- 🌱 **Mindset:** Learn continuously. Build intentionally. Improve consistently.
+
+<br clear="right"/>
+
+> *From validating software to engineering solutions — every bug, query, and commit is part of the journey.*
+
+---
+
+## `02` — Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css&theme=dark" alt="Python, Java, JavaScript, TypeScript, HTML and CSS"/>
+
+### Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb&theme=dark" alt="Backend and database technologies"/>
+
+### Data & Analytics
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/>
+
+<img src="https://img.shields.io/badge/SQL-Query%20%26%20Analysis-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827" alt="Power BI"/>
+
+### Tools & Workflow
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux&theme=dark" alt="Git, GitHub, VS Code, Postman, Docker and Linux"/>
+
+</div>
+
+> **Note:** The icons represent my technology interests and learning roadmap as well as tools I use. My hands-on experience varies by technology.
+
+---
+
+## `03` — Developer Toolkit
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="50%" valign="top">
 
-```yaml
-usuario:     SEU NOME
-funcao:      Desenvolvedor Full Stack
-localizacao: São Paulo, Brasil 🇧🇷
-foco:        IA · Automação · Web · Cloud
-idiomas:     Português (nativo) | Inglês (técnico)
-status:      Aberto a novos projetos 🟢
-```
+### 🧪 Quality Engineering
 
-Sou apaixonado por transformar ideias em sistemas reais. Gosto de **inteligência artificial**, **automação** e interfaces que parecem saídas de um filme de ficção científica. Estou sempre aprendendo, construindo e compartilhando.
-
-> 💬 *"Código limpo hoje, futuro escalável amanhã."*
+- Manual testing and test design
+- API testing with Postman
+- BDD and Gherkin
+- Browser DevTools
+- Selenium and test automation
+- Mocking and request interception
 
 </td>
-<td width="40%" align="center" valign="middle">
+<td width="50%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_title=true&hide_border=false&bg_color=0d1117&title_color=00F0FF&icon_color=FF00E5&text_color=c9d1d9&border_color=00F0FF&hide=stars,commits,prs,issues,contribs&card_width=1&custom_title=" width="0" height="0" alt=""/>
+### ⚙️ Development & Data
 
-<img src="https://img.shields.io/badge/🔭_Estudando-IA_Generativa-00f0ff?style=flat-square&labelColor=0d1117"/><br/>
-<img src="https://img.shields.io/badge/🌱_Aprendendo-Rust_%26_Go-ff00e5?style=flat-square&labelColor=0d1117"/><br/>
-<img src="https://img.shields.io/badge/⚡_Construindo-Agentes_Autônomos-39ff14?style=flat-square&labelColor=0d1117"/><br/>
-<img src="https://img.shields.io/badge/🤝_Colaborando-Open_Source-ffaa00?style=flat-square&labelColor=0d1117"/>
+- Git and GitHub
+- SQL and relational databases
+- Python for data exploration
+- REST API concepts
+- Data visualization with Power BI
+- Documentation and debugging
 
 </td>
 </tr>
 </table>
 
-<!-- ░░░░░░░░░░░░░░░░░░░░ TECH STACK ░░░░░░░░░░░░░░░░░░░░ -->
+---
 
-## ⚙️ `> tech_stack --list`
-
-<div align="center">
-
-### 🔹 Linguagens
-<img src="https://skillicons.dev/icons?i=py,js,ts,java,cs,go,rust,cpp,php,bash&theme=dark" alt="Linguagens"/>
-
-### 🔹 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,tailwind,sass,vite&theme=dark" alt="Frontend"/>
-
-### 🔹 Backend & Bancos de Dados
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,spring,postgres,mysql,mongodb,redis,supabase&theme=dark" alt="Backend"/>
-
-### 🔹 Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,githubactions,nginx,linux,terraform&theme=dark" alt="DevOps"/>
-
-### 🔹 IA & Dados
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,jupyter,pandas,numpy&theme=dark" alt="IA"/>
-
-</div>
-
-<!-- ░░░░░░░░░░░░░░░░░░░░ FERRAMENTAS ░░░░░░░░░░░░░░░░░░░░ -->
-
-## 🛠️ `> tools --installed`
+## `04` — Featured Projects
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=FF00E5"/>
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
-<img src="https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
-<img src="https://img.shields.io/badge/Notion-0d1117?style=for-the-badge&logo=notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-<img src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-0d1117?style=for-the-badge&logo=anthropic&logoColor=D97757"/>
-<img src="https://img.shields.io/badge/Jira-0d1117?style=for-the-badge&logo=jira&logoColor=0052CC"/>
-<img src="https://img.shields.io/badge/Terminal-0d1117?style=for-the-badge&logo=gnometerminal&logoColor=39ff14"/>
-
-</div>
-
-<!-- ░░░░░░░░░░░░░░░░░░░░ PROJETOS ░░░░░░░░░░░░░░░░░░░░ -->
-
-## 🚀 `> projects --featured`
-
-> 📌 Troque `SEU_USUARIO` e `NOME_DO_REPO` pelos seus repositórios reais.
-
-<div align="center">
-
-<a href="https://github.com/SEU_USUARIO/NOME_DO_REPO_1">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=NOME_DO_REPO_1&theme=transparent&bg_color=0d1117&title_color=00F0FF&icon_color=FF00E5&text_color=c9d1d9&border_color=00F0FF&show_owner=false" alt="Projeto 1"/>
-</a>
-<a href="https://github.com/SEU_USUARIO/NOME_DO_REPO_2">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=NOME_DO_REPO_2&theme=transparent&bg_color=0d1117&title_color=00F0FF&icon_color=FF00E5&text_color=c9d1d9&border_color=FF00E5&show_owner=false" alt="Projeto 2"/>
-</a>
-<a href="https://github.com/SEU_USUARIO/NOME_DO_REPO_3">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=NOME_DO_REPO_3&theme=transparent&bg_color=0d1117&title_color=00F0FF&icon_color=FF00E5&text_color=c9d1d9&border_color=39FF14&show_owner=false" alt="Projeto 3"/>
-</a>
-<a href="https://github.com/SEU_USUARIO/NOME_DO_REPO_4">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=NOME_DO_REPO_4&theme=transparent&bg_color=0d1117&title_color=00F0FF&icon_color=FF00E5&text_color=c9d1d9&border_color=FFAA00&show_owner=false" alt="Projeto 4"/>
+<a href="https://github.com/Santox-Jay?tab=repositories">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Santox-Jay&repo=REPLACE_WITH_PROJECT_REPO&theme=tokyonight&hide_border=true" alt="Featured project card"/>
 </a>
 
 </div>
 
-<!-- ░░░░░░░░░░░░░░░░░░░░ OBJETIVOS ░░░░░░░░░░░░░░░░░░░░ -->
+### 🔍 Project Showcase
 
-## 🎯 `> objetivos --atuais`
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 E-commerce Analytics with SQL
+
+**01 / DATA ANALYTICS**
+
+An analytics project exploring e-commerce data with PostgreSQL to answer business questions about revenue, customer behavior, sales performance, and data quality.
+
+`PostgreSQL` `SQL` `Analytics`
+
+[Explore my repositories →](https://github.com/Santox-Jay?tab=repositories)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧪 Software Quality Engineering
+
+**02 / QUALITY & AUTOMATION**
+
+Hands-on experience with API validation, BDD scenarios, manual testing, debugging, and exploring automation strategies for reliable software.
+
+`Postman` `Gherkin` `Selenium`
+
+[Explore my repositories →](https://github.com/Santox-Jay?tab=repositories)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Web Development
+
+**03 / FULL-STACK FOUNDATIONS**
+
+Academic and collaborative development experience, combining web technologies, requirements analysis, and solutions for practical needs.
+
+`HTML` `CSS` `JavaScript`
+
+[Explore my repositories →](https://github.com/Santox-Jay?tab=repositories)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI & Intelligent Systems
+
+**04 / EXPLORATION LAB**
+
+Exploring how AI can support software workflows, documentation, information extraction, and more efficient engineering processes.
+
+`Python` `AI` `Automation`
+
+[Explore my repositories →](https://github.com/Santox-Jay?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+---
+
+## `05` — Current Mission
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/TERMINAL-JAYANE--DEV-00E5FF?style=for-the-badge&logo=windowsterminal&logoColor=white&labelColor=050816" alt="Developer terminal"/>
+
+</div>
 
 ```bash
-┌──(seu_usuario㉿sistema)-[~/objetivos]
-└─$ cat objetivos_2026.log
+jayane@dev-environment:~$ cat mission.txt
 
-[✔] Dominar arquitetura de agentes de IA ............ 100%
-[▶] Contribuir com projetos open source ............. 70%
-[▶] Construir um SaaS do zero ....................... 45%
-[▶] Aprender Rust e programação de sistemas ......... 30%
-[ ] Certificação em Cloud (AWS / GCP) ............... 10%
-[ ] Palestrar em um evento de tecnologia ............ 0%
+[CURRENT]    Strengthening backend development fundamentals
+[DATABASE]   Practicing PostgreSQL and analytical SQL
+[QUALITY]    Applying a QA mindset to software engineering
+[DATA]       Exploring analytics and data engineering
+[AI/ML]      Learning how intelligent systems are built
+[COMMUNITY]  Collaborating and growing through GreenTeam
 
-┌──(seu_usuario㉿sistema)-[~/objetivos]
-└─$ echo "Evoluindo todos os dias..." && sleep 1
-Evoluindo todos os dias...
+jayane@dev-environment:~$ git status
 
-┌──(seu_usuario㉿sistema)-[~/objetivos]
-└─$ _
+On branch: continuous-learning
+Changes:   new skills, new projects, new possibilities
+Status:    IN PROGRESS
+
+jayane@dev-environment:~$ _
 ```
 
-<!-- ░░░░░░░░░░░░░░░░░░░░ ESTATISTICAS ░░░░░░░░░░░░░░░░░░░░ -->
+### 🎯 What I'm working toward
 
-## 📊 `> github_stats --analyze`
+- Building practical projects that demonstrate real technical skills.
+- Developing stronger SQL, Python, and backend engineering foundations.
+- Connecting software quality with clean, maintainable code.
+- Exploring data engineering, analytics, and AI through hands-on practice.
+- Contributing to collaborative projects and learning from other developers.
+
+---
+
+## `06` — GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=false&bg_color=0d1117&title_color=00F0FF&icon_color=FF00E5&text_color=c9d1d9&border_color=00F0FF&ring_color=FF00E5&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=false&bg_color=0d1117&title_color=00F0FF&text_color=c9d1d9&border_color=FF00E5&langs_count=8" alt="Top Languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Santox-Jay&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=7C3AED&text_color=C9D1D9&rank_icon=github" alt="GitHub profile statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santox-Jay&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=C9D1D9&langs_count=8" alt="Most used programming languages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=transparent&background=0D1117&ring=00F0FF&fire=FF00E5&currStreakLabel=00F0FF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E&stroke=00F0FF33&border=00F0FF&hide_border=false" alt="GitHub Streak" width="80%"/>
+<img width="95%" src="https://streak-stats.demolab.com?user=Santox-Jay&theme=tokyonight&hide_border=true&background=050816&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF" alt="GitHub contribution streak"/>
 
-<br/><br/>
+<br/>
 
-### 📈 Gráfico de Atividade
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0d1117&color=00F0FF&line=FF00E5&point=FFFFFF&area=true&area_color=00F0FF&hide_border=true&radius=10&title_color=00F0FF" alt="Activity Graph" width="100%"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Santox-Jay&bg_color=050816&color=C9D1D9&line=00E5FF&point=7C3AED&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph"/>
 
 </div>
 
-<!-- ░░░░░░░░░░░░░░░░░░░░ TROFEUS ░░░░░░░░░░░░░░░░░░░░ -->
+---
 
-## 🏆 `> trophies --show`
+## `07` — Achievements Unlocked
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=onedark&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7&row=1" alt="GitHub Trophies" width="100%"/>
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=Santox-Jay&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub profile trophies"/>
 
 </div>
 
-<!-- ░░░░░░░░░░░░░░░░░░░░ SNAKE ░░░░░░░░░░░░░░░░░░░░ -->
+---
 
-## 🐍 `> snake --contributions`
+## `08` — Contribution Matrix
 
 <div align="center">
 
+<!-- Requires the GitHub Actions workflow to generate the SVG. -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Santox-Jay/Santox-Jay/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Santox-Jay/Santox-Jay/output/github-contribution-grid-snake.svg"/>
+  <img width="100%" src="https://raw.githubusercontent.com/Santox-Jay/Santox-Jay/output/github-contribution-grid-snake.svg" alt="Snake animation of GitHub contributions"/>
 </picture>
 
 </div>
 
-<!-- ░░░░░░░░░░░░░░░░░░░░ REDES SOCIAIS ░░░░░░░░░░░░░░░░░░░░ -->
+---
 
-## 🌐 `> connect --network`
+## `09` — Let's Connect
 
 <div align="center">
 
-<a href="https://linkedin.com/in/SEU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
-<a href="https://github.com/SEU_USUARIO"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
-<a href="https://instagram.com/SEU_USUARIO"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
-<a href="https://twitter.com/SEU_USUARIO"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://discord.com/users/SEU_ID"><img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2"/></a>
-<a href="https://seusite.com"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00F0FF"/></a>
+I'm always open to connecting with developers, exchanging ideas, and discovering opportunities to learn and build together.
+
+<a href="https://github.com/Santox-Jay">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20my%20code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/jayane-csantos">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<br/><br/>
+
+**Open to learning, collaboration, and new challenges.**
 
 </div>
 
-<!-- ░░░░░░░░░░░░░░░░░░░░ RODAPE ░░░░░░░░░░░░░░░░░░░░ -->
-
-<br/>
+---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1500&color=8B949E&center=true&vCenter=true&width=600&height=30&lines=%5B+Encerrando+sess%C3%A3o+...+aguardando+pr%C3%B3ximo+commit+%5D;%5B+Obrigado+pela+visita+%E2%80%94+vamos+construir+algo+incr%C3%ADvel+%5D" alt="Footer typing"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:111C44&height=100&section=footer" width="100%" alt="Footer decoration"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling" width="100%" alt="Footer"/>
+<sub>Designed with curiosity, built with code, and improved one commit at a time.</sub>
 
-<sub>⚡ Desenvolvido com café, código e curiosidade · © 2026 SEU NOME · Todos os sistemas operacionais ⚡</sub>
+<br/>
+
+<sub>© Jayane CSantos · Keep learning. Keep building. Keep shipping.</sub>
 
 </div>
