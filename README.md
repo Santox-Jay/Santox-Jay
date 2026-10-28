@@ -49,24 +49,20 @@ I believe great software starts with good questions, thoughtful engineering, and
 
 <div align="center">
 
-### Languages
+Languages & Query
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css&theme=dark" alt="Python, Java, JavaScript, TypeScript, HTML and CSS"/>
+<img src="https://skillicons.dev/icons?i=python,postgres,mysql&theme=dark" alt="Python, PostgreSQL and MySQL"/>
 
-### Backend & Databases
+Data Analysis & Visualization
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb&theme=dark" alt="Backend and database technologies"/>
+<img src="https://img.shields.io/badge/SQL-Query%20%26%20Data%20Analysis-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/Pandas-Data%20Manipulation-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Power%20BI-Business%20Intelligence-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Excel-Data%20Analysis-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
 
-### Data & Analytics
+Tools & Workflow
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/>
-
-<img src="https://img.shields.io/badge/SQL-Query%20%26%20Analysis-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827" alt="Power BI"/>
-
-### Tools & Workflow
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux&theme=dark" alt="Git, GitHub, VS Code, Postman, Docker and Linux"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub and VS Code"/>
 
 </div>
 
